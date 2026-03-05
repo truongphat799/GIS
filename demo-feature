@@ -1,0 +1,7 @@
+main
+dev
+feature-login (Dev1)
+feature-map (Dev2)
+Dev1 → feature-login → dev
+Dev2 → feature-map → dev
+dev → main
